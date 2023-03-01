@@ -1,0 +1,10 @@
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.pdb
