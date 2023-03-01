@@ -1,0 +1,20 @@
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\JD lab\Desktop\Socket教材\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\bin\Debug\CLIENT.exe.config
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\bin\Debug\CLIENT.exe
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\bin\Debug\CLIENT.pdb
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.Form1.resources
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.exe
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\CLIENT(C#)SERVER(Python)\CLIENT\obj\Debug\CLIENT.pdb
